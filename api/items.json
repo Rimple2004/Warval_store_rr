@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "name": "Dell i5",
+    "category": "laptop",
+    "brand": "Dell",
+    "img": "items_imgs/dell-laptop.jpg",
+    "desc": "Experience powerful performance and seamless multitasking with the Dell Intel Core i5 Laptop. Featuring a sleek design, fast processing speed, and reliable battery life, it's perfect for work, study, and entertainment.",
+    "Price_max": 45000,
+    "Price_min": 20000,
+    "stock": 78
+  },
+
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "category": "smartphone",
+    "brand": "Apple",
+    "img": "items_imgs/iphone.jpg",
+    "desc": "The iPhone 15 delivers stunning performance with its advanced camera system, powerful chipset, and elegant design. Capture amazing photos, enjoy smooth performance, and stay connected with cutting-edge technology.",
+    "Price_max": 80000,
+    "Price_min": 65000,
+    "stock": 45
+  },
+
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "watch",
+    "brand": "Noise",
+    "img": "items_imgs/smart-watch.jpg",
+    "desc": "Stay fit and connected with our Smart Watch. Track your health, monitor workouts, receive notifications, and enjoy a stylish design that complements your everyday lifestyle.",
+    "Price_max": 5000,
+    "Price_min": 1500,
+    "stock": 120
+  },
+
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "headphone",
+    "brand": "Sony",
+    "img": "items_imgs/headphone.jpg",
+    "desc": "Immerse yourself in crystal-clear sound with our Wireless Headphones. Designed for comfort and long-lasting battery life, they provide an exceptional audio experience for music, calls, and gaming.",
+    "Price_max": 12000,
+    "Price_min": 2500,
+    "stock": 60
+  },
+
+  {
+    "id": 4,
+    "name": "Wireless Earbuds",
+    "category": "earbuds",
+    "brand": "boAt",
+    "img": "items_imgs/earbuds.jpg",
+    "desc": "Enjoy true wireless freedom with premium Earbuds. Featuring rich sound quality, noise reduction, and a compact charging case, they're perfect for music lovers on the go.",
+    "Price_max": 4000,
+    "Price_min": 1000,
+    "stock": 95
+  },
+
+  {
+    "id": 5,
+    "name": "LED TV",
+    "category": "television",
+    "brand": "Samsung",
+    "img": "items_imgs/tv.jpg",
+    "desc": "Transform your entertainment experience with our LED TV. Enjoy vibrant colors, sharp visuals, and immersive sound, making every movie, show, and game more enjoyable.",
+    "Price_max": 60000,
+    "Price_min": 18000,
+    "stock": 35
+  },
+
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "category": "mouse",
+    "brand": "Logitech",
+    "img": "items_imgs/mouse.jpg",
+    "desc": "Boost your productivity with this ergonomic Wireless Mouse. Offering smooth tracking, comfortable handling, and reliable wireless connectivity for effortless everyday use.",
+    "Price_max": 2500,
+    "Price_min": 500,
+    "stock": 150
+  },
+
+  {
+    "id": 7,
+    "name": "Keyboard",
+    "category": "keyboard",
+    "brand": "HP",
+    "img": "items_imgs/keyboard.jpg",
+    "desc": "Type comfortably and efficiently with our high-quality Keyboard. Built for durability and responsive performance, it's ideal for work, gaming, and daily computing tasks.",
+    "Price_max": 3000,
+    "Price_min": 700,
+    "stock": 110
+  }
+]
